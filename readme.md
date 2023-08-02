@@ -20,6 +20,8 @@ To test the model I ran
 
 I set the intial run to the imagnet file I modifed, set the test picture to the first ace of spades picture, and saved it to the card.jpg file. This specific test comes out with 63.95% ace of spades.
 
+[Imgur](https://imgur.com/yBc9Apr)
+
 ## Running this project
 
 1. Run this line of code
