@@ -25,6 +25,9 @@ I set the intial run to the imagnet file I modifed, set the test picture to the 
 
 1. In the jetson nano folder go to Jetson-Nano/python/training/classification
 2. Replace the files in the folder with the files listed hear
+3. 
+ ![Screenshot (3)](https://github.com/navypenguin/CardsCheck/assets/112725885/0e4b6cd1-56fc-4e04-a7b4-660dec92b083)
+ 
 4. Run this command
 /home/nvidia/jetson-inference/build/aarch64/bin/imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$NET/labels.txt $DATASET/test/'ace of spades'/1.jpg card.jpg 
 5. instead of /'ace of spades'/1.jpg choose any file that you want to test inside the test folder.
