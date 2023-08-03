@@ -24,8 +24,9 @@ To test the model I ran
 
 I set the intial run to the imagnet file I modifed, set the test picture to the first ace of spades picture, and saved it to the card.jpg file. This specific test comes out with 63.95% ace of spades.
 
-![Screenshot (1)](https://github.com/navypenguin/CardsCheck/assets/112725885/6208a0a0-6930-41ba-b9a0-5caf1bc25c23)
+![Screenshot (9)](https://github.com/navypenguin/CardsCheck/assets/112725885/fae57d05-3632-4194-bf86-519d56c2c601)
 
+![Screenshot (7)](https://github.com/navypenguin/CardsCheck/assets/112725885/39a38610-58f0-4fd3-b95a-d10d11855db9)
 
 ## Running this project
 
